@@ -1,0 +1,106 @@
+.hed{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    padding: 10px 10px;
+    text-align: left;
+    border-radius: 20px;
+    float: none;
+}    
+.hed2{
+    width: 400px;
+    height:70px ;
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    position: relative;
+    right: 70px;
+    
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+margin: 40px;
+}
+
+   
+   body{
+    border: 5px solid green;
+    background-color: hsla(160, 35%, 65%, 0.342);
+    height: 1800px;
+   }
+    
+
+.reg{
+    color: red;
+    text-align: center;
+    width: 400px;
+     padding: 10px;
+    position: relative;
+    left: 50%;
+    border: 10px solid red;
+    border-style: dashed;
+}
+.cir{
+    width: 300px;
+    height:300px ;
+    border: 10px solid gray;
+    background-color: seagreen;
+    color: black;
+     text-align: center;
+    border-radius: 50%;
+     position: relative;
+     right: 20%;
+    margin-top: 25%;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.line{
+    text-decoration: underline;
+    font-style: italic;
+}
+.roll{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.me{
+    text-align: center;
+    left: 35%;
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 400px;
+    position: relative;
+}
+.sun{
+    background-color: aqua;
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+.mon{
+    background-color: aqua;
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid green;
+    border-radius: 30px;
+
+
+}

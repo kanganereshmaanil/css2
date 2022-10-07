@@ -31,7 +31,7 @@ margin: 40px;
    body{
     border: 5px solid green;
     background-color: hsla(160, 35%, 65%, 0.342);
-    height: 1800px;
+    height: 2000px;
    }
     
 
@@ -81,10 +81,10 @@ margin: 40px;
 }
 .sun{
     background-color: aqua;
-    width: 400px;
+    width: 200px;
     height: 250px;
     float: left;
-    margin: 20px;
+    margin: 50px;
     text-align: center;
     border: 5px solid green;
     border-radius: 30px;
@@ -92,10 +92,10 @@ margin: 40px;
 }
 .mon{
     background-color: aqua;
-    width: 400px;
+    width: 200px;
     height: 250px;
     float: left;
-    margin: 20px;
+    margin: 50px;
     text-align: center;
     border: 5px solid green;
     border-radius: 30px;
